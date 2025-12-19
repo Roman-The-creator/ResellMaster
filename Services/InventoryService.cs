@@ -9,7 +9,7 @@ using MyWinFormsApp.Models;
 
 namespace MyWinFormsApp.Services
 {
-    public class InventoryService
+    public class InventoryService : IInventoryService
     {
         private readonly AppDbContext _context;
 
