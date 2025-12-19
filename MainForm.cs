@@ -63,25 +63,20 @@ namespace MyWinFormsApp
                 if (dgvProducts.Columns["PurchaseDate"] != null)
                     dgvProducts.Columns["PurchaseDate"].DefaultCellStyle.Format = "dd.MM.yyyy HH:mm";
 
-                // ✅ ПРИБЫЛЬ = чистая продажа - закуп
                 var totalProfit = rows
                     .Where(r => r.SalePrice.HasValue)
                     .Sum(r => r.SalePrice.Value - r.PurchasePrice);
 
-                // ✅ В НАЛИЧИИ
                 var inStockCount = rows.Count(r => r.Status == ItemStatus.InStock.ToString());
 
-                // ✅ СТОИМОСТЬ ТОВАРА В НАЛИЧИИ (вложенные деньги)
                 var inventoryValue = rows
                     .Where(r => r.Status == ItemStatus.InStock.ToString())
                     .Sum(r => r.PurchasePrice);
 
-                // ✅ ДЕНЬГИ ОТ ПРОДАЖ (чистыми)
                 var cashFromSales = rows
                     .Where(r => r.Status == ItemStatus.Sold.ToString() && r.SalePrice.HasValue)
                     .Sum(r => r.SalePrice.Value);
 
-                // ✅ КАПИТАЛ = деньги + товар на складе
                 var capital = cashFromSales + inventoryValue;
 
                 lblTotalProfit.Text = $"Прибыль: {totalProfit:N2} ₽";
