@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\mywinformsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:mywinformsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\migrations\\20251218065348_syncallmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:migrations\\20251218065348_syncallmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\migrations\\20251218065348_syncallmodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:migrations\\20251218065348_syncallmodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\migrations\\20251218155401_addquantityandunitpricetoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:migrations\\20251218155401_addquantityandunitpricetoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\models\\productrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:models\\productrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|c:\\users\\sukhi\\onedrive\\desktop\\new_work\\migrations\\20251219075936_addsalecosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEF8271-8177-4941-9B76-BFDE1BDE430F}|MyWinFormsApp.csproj|solutionrelative:migrations\\20251219075936_addsalecosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:22:39.978Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWinFormsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MyWinFormsApp.csproj",
+              "RelativeDocumentMoniker": "MyWinFormsApp.csproj",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MyWinFormsApp.csproj",
+              "RelativeToolTip": "MyWinFormsApp.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T11:12:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251218155401_AddQuantityAndUnitPriceToProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218155401_AddQuantityAndUnitPriceToProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251218155401_AddQuantityAndUnitPriceToProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218155401_AddQuantityAndUnitPriceToProduct.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251218155401_AddQuantityAndUnitPriceToProduct.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAIBJwIUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:50:35.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T19:20:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251218065348_SyncAllModels.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218065348_SyncAllModels.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251218065348_SyncAllModels.Designer.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218065348_SyncAllModels.Designer.cs",
+              "RelativeToolTip": "Migrations\\20251218065348_SyncAllModels.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAIBJwH8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:50:35.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251218065348_SyncAllModels.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218065348_SyncAllModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251218065348_SyncAllModels.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251218065348_SyncAllModels.cs",
+              "RelativeToolTip": "Migrations\\20251218065348_SyncAllModels.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAArwOQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:50:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T19:58:13.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAjwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:22:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRow.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\ProductRow.cs",
+              "RelativeDocumentMoniker": "Models\\ProductRow.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Models\\ProductRow.cs",
+              "RelativeToolTip": "Models\\ProductRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T19:20:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.Designer.cs",
+              "RelativeDocumentMoniker": "SaleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.Designer.cs",
+              "RelativeToolTip": "SaleForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwKoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:22:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251219075936_AddSaleCosts.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251219075936_AddSaleCosts.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251219075936_AddSaleCosts.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\Migrations\\20251219075936_AddSaleCosts.cs",
+              "RelativeToolTip": "Migrations\\20251219075936_AddSaleCosts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:59:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SaleForm.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "SaleForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:23:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SaleForm.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\SaleForm.cs",
+              "RelativeToolTip": "SaleForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAWwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:20:45.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\sukhi\\OneDrive\\Desktop\\new_work\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:22:14.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
