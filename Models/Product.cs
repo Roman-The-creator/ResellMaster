@@ -26,7 +26,6 @@ namespace MyWinFormsApp.Models
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; } = null!;
 
-        // ✅ чтобы работало p.Sales
         public virtual ICollection<Sale> Sales { get; set; } = new List<Sale>();
     }
 }
