@@ -18,7 +18,6 @@ namespace MyWinFormsApp.Models
         public int PlatformId { get; set; }
         public virtual Platform Platform { get; set; } = null!;
 
-        // ✅ расходы/комиссия
         public decimal AdCost { get; set; } = 0m;               // реклама, ₽
         public decimal ViewsCost { get; set; } = 0m;            // просмотры, ₽
         public decimal PlatformFeePercent { get; set; } = 0m;   // комиссия, %
